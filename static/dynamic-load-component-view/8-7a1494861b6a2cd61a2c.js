@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8,5],{278:function(e,n,u){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.business=function(){alert("统一的业务处理逻辑")}},287:function(e,n,u){"use strict";var t,s=(t=u(561))&&t.__esModule?t:{default:t},i=u(278);(0,s.default)(function(){(0,i.business)(),(0,s.default)("#ok").bind("click",function(){alert("jquery")})})}}]);
+//# sourceMappingURL=8-7a1494861b6a2cd61a2c.js.map

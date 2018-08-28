@@ -1,0 +1,31 @@
+{% extends '../../../template/layout.html' %}
+{% block css %}
+<link href="{{css.mall}}" rel="stylesheet" type="text/css" charSet="UTF-8"/>
+{% endblock %}
+{% block content %}
+{% for i in pages %}
+	{% set page = i.page+".html" %}
+    {% include page ignore missing %}
+{% endfor %}
+<div>
+	{% for ins in HOOK_A_LL %}
+		{% autoescape false %}{{ins.content}}{% endautoescape %}
+	{% endfor %}
+</div>
+<div>
+	{% for ins in HOOK_A_RR %}
+		{% autoescape false %}{{ins.content}}{% endautoescape %}
+	{% endfor %}
+</div>
+<div>
+	{% for ins in HOOK_A_TT %}
+		{% autoescape false %}{{ins.content}}{% endautoescape %}
+	{% endfor %}
+</div>
+{% endblock %}
+{% block js %}
+{% if mode == true %}
+<script src="/{{micro_service_name}}/dlls/dll__vendor.js" charSet="UTF-8"></script>
+{% endif %}
+<script src="{{js.mall}}" charSet="UTF-8" ></script>
+{% endblock %}

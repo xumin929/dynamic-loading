@@ -1,0 +1,14 @@
+{
+	"state":"1",
+	"data":{
+		"HOOK_TL":[
+			
+			
+			{"id":"2", "name":"CompA","config":{"font-size":"36px","callback":"{()=>that.test()}"},"version":"v1.0.0","ssr":"1","hook":"HOOK_TL"}
+			
+		],
+		"HOOK_LL":[
+			
+		]
+	}
+}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{594:function(e,n){throw new Error('Module parse failed: Unexpected token (1:1)\nYou may need an appropriate loader to handle this file type.\n| {% extends \'../../../../../template/layout-config.html\' %}\r\n| {% block css %}\r\n| <link href="{{css[\'ma-v1.0.0\']||\'\'}}" rel="stylesheet" type="text/css" charSet="UTF-8"/>\r')}}]);
+//# sourceMappingURL=18-f94e096be629a035fa6d.js.map

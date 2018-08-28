@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{278:function(e,n,s){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.business=function(){alert("统一的业务处理逻辑")}}}]);
+//# sourceMappingURL=5-83a5573dfdd8ffd961ff.js.map

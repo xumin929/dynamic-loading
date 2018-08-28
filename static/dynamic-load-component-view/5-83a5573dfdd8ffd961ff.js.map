@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components-swig/appConfig/app.js"],"names":["business","alert"],"mappings":"6IAAgBA,SAAT,WACNC,MAAM","file":"5-83a5573dfdd8ffd961ff.js","sourcesContent":["export function business() {\r\n\talert(\"统一的业务处理逻辑\")\r\n}"],"sourceRoot":""}

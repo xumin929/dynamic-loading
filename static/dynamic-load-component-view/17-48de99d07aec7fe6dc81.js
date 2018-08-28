@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{593:function(s,e){throw new Error('Module parse failed: Unexpected token (1:1)\nYou may need an appropriate loader to handle this file type.\n| \t<div>\r\n| \t\t\r\n| \t\t<div class = "{{style.ma}}" style="font-size:{{instance.config.fontSize}}">ssssssssssss</div>\r')}}]);
+//# sourceMappingURL=17-48de99d07aec7fe6dc81.js.map

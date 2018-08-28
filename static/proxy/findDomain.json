@@ -1,0 +1,160 @@
+{
+  "code": "0",
+  "msg": "获取所有域成功",
+  "data": [
+    {
+      "id": 3072,
+      "platformId": 2,
+      "domain": "buy5j.com",
+      "domainType": 1,
+      "created": 1488977577000,
+      "modified": 1488977579000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3073,
+      "platformId": 2,
+      "domain": "buyer.buy5j.com",
+      "domainType": 2,
+      "created": 1488977676000,
+      "modified": 1488977684000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3074,
+      "platformId": 2,
+      "domain": "shop.buy5j.com",
+      "domainType": 3,
+      "created": 1488977678000,
+      "modified": 1488977686000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3075,
+      "platformId": 2,
+      "domain": "platform.buy5j.com",
+      "domainType": 4,
+      "created": 1488977680000,
+      "modified": 1488977688000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3076,
+      "platformId": 2,
+      "domain": "passport.buy5j.com",
+      "domainType": 5,
+      "created": 1488958592000,
+      "modified": 1488958594000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3077,
+      "platformId": 2,
+      "domain": "m-buyer.buy5j.com",
+      "domainType": 6,
+      "created": 1495025143000,
+      "modified": 1495025146000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3078,
+      "platformId": 2,
+      "domain": "m-shop.buy5j.com",
+      "domainType": 7,
+      "created": 1495025149000,
+      "modified": 1495025152000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3079,
+      "platformId": 2,
+      "domain": "m-passport.buy5j.com",
+      "domainType": 8,
+      "created": 1495025220000,
+      "modified": 1495025223000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3080,
+      "platformId": 2,
+      "domain": "passport-platform.buy5j.com",
+      "domainType": 9,
+      "created": 1488977681000,
+      "modified": 1488977689000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3081,
+      "platformId": 2,
+      "domain": "view-zx-mall.buy5j.com",
+      "domainType": 10,
+      "created": 1493960482000,
+      "modified": 1493960486000,
+      "description": null,
+      "domainGroupId": -1,
+      "https": false
+    },
+    {
+      "id": 3082,
+      "platformId": 2,
+      "domain": "gw.buy5j.com",
+      "domainType": 11,
+      "created": 1492149373000,
+      "modified": 1492149377000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    },
+    {
+      "id": 3083,
+      "platformId": 2,
+      "domain": "m.buy5j.com",
+      "domainType": 13,
+      "created": 1452311933000,
+      "modified": 1452311939000,
+      "description": "b2b test system",
+      "domainGroupId": -1,
+      "https": false
+    },
+    {
+      "id": 3084,
+      "platformId": 2,
+      "domain": "view-zone.buy5j.com",
+      "domainType": 12,
+      "created": 1495522917000,
+      "modified": 1495522920000,
+      "description": null,
+      "domainGroupId": -1,
+      "https": false
+    },
+    {
+      "id": 3085,
+      "platformId": 2,
+      "domain": "static.buy5j.com",
+      "domainType": 14,
+      "created": 1495522917000,
+      "modified": 1495522920000,
+      "description": null,
+      "domainGroupId": 1,
+      "https": false
+    }
+  ]
+}

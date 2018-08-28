@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6,14],{564:function(n,o,e){"use strict";function t(n){return n&&n.__esModule?n:{default:n}}t(e(589)),(0,t(e(561)).default)("#oopw").bind("click",function(){alert("jquery mb")})},589:function(n,o,e){n.exports={mb:"_2S-7Ab_bK_prVXZp_ARq4k"}}}]);
+//# sourceMappingURL=6-2bc0684977b327712d2c.js.map
